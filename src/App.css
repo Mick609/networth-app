@@ -1,0 +1,40 @@
+/* src/App.css */
+.app {
+  text-align: center;
+}
+
+.toggle-button {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  /* Ensures the button is above other content */
+}
+
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.sidebar-hidden .sidebar {
+  display: none;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+.sidebar-visible .content {
+  margin-left: 200px;
+}
+
+.sidebar-hidden .content {
+  margin-left: 0;
+}
