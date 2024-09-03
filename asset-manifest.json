@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/networth-app/static/css/main.d3408cd5.css",
+    "main.js": "/networth-app/static/js/main.04ee6621.js",
+    "static/js/453.70625cb4.chunk.js": "/networth-app/static/js/453.70625cb4.chunk.js",
+    "index.html": "/networth-app/index.html",
+    "main.d3408cd5.css.map": "/networth-app/static/css/main.d3408cd5.css.map",
+    "main.04ee6621.js.map": "/networth-app/static/js/main.04ee6621.js.map",
+    "453.70625cb4.chunk.js.map": "/networth-app/static/js/453.70625cb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3408cd5.css",
+    "static/js/main.04ee6621.js"
+  ]
+}
